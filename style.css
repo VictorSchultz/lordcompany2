@@ -281,6 +281,7 @@ h1 {
   height: 300px;
   border-radius: 89% 65% 84% 100% / 0% 0% 80% 89%;
   box-shadow: 27px 27px 70px lightblue, -35px -25px 70px white;
+  justify-self: left;
 }
 
 .legenda {
